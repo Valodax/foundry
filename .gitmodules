@@ -4,3 +4,6 @@
 [submodule "foundry-defi-stablecoin/lib/openzeppelin-contracts"]
 	path = foundry-defi-stablecoin/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-dao/lib/openzeppelin-contracts"]
+	path = foundry-dao/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
